@@ -1,0 +1,26 @@
+{
+  "name": "playlist-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fuzzy": "^0.1.1",
+    "mustache": "^2.2.1",
+    "spinitron-spinpapi": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksdt/playlist-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksdt/playlist-analysis/issues"
+  },
+  "homepage": "https://github.com/ksdt/playlist-analysis#readme"
+}
