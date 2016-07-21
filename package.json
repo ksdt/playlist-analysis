@@ -7,7 +7,8 @@
     "express": "^4.14.0",
     "fuzzy": "^0.1.1",
     "mustache": "^2.2.1",
-    "spinitron-spinpapi": "0.0.3"
+    "spinitron-spinpapi": "0.0.3",
+    "spotify-web-api-node": "^2.3.5"
   },
   "devDependencies": {},
   "scripts": {
