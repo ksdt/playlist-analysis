@@ -1,0 +1,17 @@
+<h4>Most Recent Playlist on {{date}}</h4>
+<table class="table table-striped table-condensed">
+    <thead>
+        <tr>
+            <td>time</td>
+            <td>song name</td>
+            <td>artist name</td>
+        </tr>
+    </thead>
+    {{#songs}}
+        <tr>
+            <td>{{time}}</td>
+            <td>{{title}}</td>
+            <td>{{artist}}</td>
+        </tr>
+    {{/songs}}
+</table>

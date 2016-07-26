@@ -1,0 +1,17 @@
+<h4>top artists and similar artists</h4>
+<table class="table table-striped table-condensed">
+    <thead>
+    <tr>
+        <td>Play Count</td>
+        <td>Artist Name</td>
+        <td>Similar Artists</td>
+    </tr>
+    </thead>
+{{#artists}}
+    <tr>
+        <td>{{count}}</td>
+        <td>{{name}}</td>
+        <td>{{relatedArtists}}</td>
+    </tr>
+{{/artists}}
+</table>
