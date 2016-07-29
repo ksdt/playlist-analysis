@@ -1,0 +1,29 @@
+/* CSS */
+
+* {
+	color: black;
+}
+
+.showRow {
+	margin-top: 100px;
+}
+
+
+
+thead tr td {
+	color: white;
+	background-color: #212121;
+}
+
+.navColor {
+	background-color: #212121;
+	-webkit-box-shadow: 0px 4px 0px 0px rgba(50, 50, 50, 0.38);
+	-moz-box-shadow:    0px 4px 0px 0px rgba(50, 50, 50, 0.38);
+	box-shadow:         0px 4px 0px 0px rgba(50, 50, 50, 0.38);
+
+
+}
+
+h1 {
+	color: white;
+}
