@@ -1,0 +1,9 @@
+<h3>Similar Artists </h3>
+<div class = "similarArtist"> Based off of top 5 played artists </div>
+
+
+<div class = "btn-group">
+	{{#artist}}
+	<button type= "button" class = "btn btn-default" data-toggle="tooltip" data-placement="bottom" title ="Source: {{source}}">{{name}}</button>
+	{{/artist}}
+</div>

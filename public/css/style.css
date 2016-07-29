@@ -27,3 +27,16 @@ thead tr td {
 h1 {
 	color: white;
 }
+
+.similarArtist {
+	width: 100%;
+	
+	background-color: black;
+	margin-bottom: 10px;
+	color: white;
+	padding: 9px;
+}
+
+.similarArtist h5 {
+	color: white;
+}
